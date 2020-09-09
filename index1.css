@@ -1,14 +1,9 @@
-
-
-body{
-
-    
-    color:purple;  
-    color: blue;
-    }
-    .site-name {
+body    .site-name {
         text-align: center;
         font-family: 'Roboto';
+        background-color:grey;
+        font-size: 25px;
+        color: purple;
     }
     
     .info-container {
@@ -37,8 +32,11 @@ body{
         display: inline-block;
         width: 200px; 
         font-size: 200px;
+        color:purple;
     }
     
     .fa-sun-o {
         font-size: 150px; 
+        
     }
+
