@@ -4,6 +4,7 @@ body{
 
     
     color:purple;  
+    color: blue;
     }
     .site-name {
         text-align: center;
@@ -11,7 +12,7 @@ body{
     }
     
     .info-container {
-        background-color: lightblue;
+        background-color: aqua;
         display:inline-block;
         max-height: 300px;
         max-width: 300px;
