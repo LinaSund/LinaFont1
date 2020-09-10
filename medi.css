@@ -14,15 +14,13 @@
     margin-left: 80px;
 }
 
-.logo-dot
-
-{
-
-    color:#A3DC00
+.logo-dot {
+   
+    color: #A3DC00;
 }
 
 section   {
-    display:inline;
+    display:inline-block;
 
 }
 
@@ -80,6 +78,13 @@ section   {
     letter-spacing: 0.02em;
     color: #FFFFFF;
     border: none;
-    
-    
+}
+
+.main-btn:hover{
+    background-color: blue; 
+}
+
+img {
+    width: 450px;
+    margin-left: 100px;
 }
